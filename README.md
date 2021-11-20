@@ -37,6 +37,13 @@ follow the design pattern in the repo and write your own code.
 - DATABASE_URL=postgres://localhost:5432/auth_api
 - SECRET=amr-nzzal--amr-nzzal
 
+* **Endpoints:**
+   *  for create (/signup)
+   *  for login (/signin)
+   *  for get (/users)
+   *  for create(/api/v1/food||clothes)
+   *  for update(/api/v1/food||clothes)
+   *  for delete(/api/v1/food||clothes)
 ---
 
 **Testing**
@@ -55,4 +62,4 @@ follow the design pattern in the repo and write your own code.
 
 **UML/Application**
 
-![uml](./UML1.jpg)
+![uml](./uml.jpg)
